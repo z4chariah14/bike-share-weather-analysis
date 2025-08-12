@@ -90,4 +90,4 @@ This approach balances technical best practices with business usability.
 
 ## Author
 **Zac Adeboye**  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/zac-adeboye-1a2412291/) | [GitHub](https://github.com/z4chariah14)
